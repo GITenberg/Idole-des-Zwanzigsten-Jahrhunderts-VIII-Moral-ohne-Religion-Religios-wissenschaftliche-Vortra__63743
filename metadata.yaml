@@ -1,0 +1,26 @@
+_repo: Idole-des-Zwanzigsten-Jahrhunderts-VIII-Moral-ohne-Religion-Religios-wissenschaftliche-Vortra__63743
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cohausz, Otto
+    birthdate: 1872
+    deathdate: 1938
+    gutenberg_agent_id: '52576'
+    url: http://www.gutenberg.org/2009/agents/52576
+description: ''
+gutenberg_issued: '2020-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63743'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- 20th century'
+- !lcc 'BR'
+- GITenberg
+title: 'Idole des Zwanzigsten Jahrhunderts. VIII. Moral ohne Religion
+
+  Religiös-wissenschaftliche Vorträge'
+url: http://www.gutenberg.org/ebooks/63743
